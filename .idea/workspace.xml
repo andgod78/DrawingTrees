@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70b42cd-e930-46a4-9eff-be016efd6168" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorythm1_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ceasarsCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/continiousNumbers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleWords/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moneyOutput/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrom/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeNumbers/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DrawingFigures/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DrawingFigures/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550002663634" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550004589429" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ArrayClass" />
   </component>
   <component name="RunDashboard">
@@ -204,7 +194,7 @@
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1622" height="866" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30915034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30915034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -213,7 +203,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4548193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4548193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
